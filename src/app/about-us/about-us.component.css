@@ -1,0 +1,8 @@
+div.picture1 {
+    background-size: cover;
+    background-position: center center;
+    height: 375px;
+    box-sizing: content-box;
+    background-image:url('../../assets/bg.jpeg');
+    
+ }
