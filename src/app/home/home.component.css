@@ -54,6 +54,8 @@ div.picture1 {
 }
 
 .customhead{
-    background: #000000 url(../../assets/bg.jpeg) 100% 100% no-repeat;
+        background-image: url("../../assets/bg.jpeg");
+        background-repeat: no-repeat;
+        background-size: 300px;
 }
  
