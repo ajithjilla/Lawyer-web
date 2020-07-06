@@ -52,4 +52,8 @@ div.picture1 {
   max-width: 100%;
   position: relative;
 }
+
+.customhead{
+    background: #000000 url(../../assets/bg.jpeg) 100% 100% no-repeat;
+}
  
